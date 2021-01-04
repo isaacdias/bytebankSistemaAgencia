@@ -15,7 +15,6 @@ namespace ByteBank.SistemaAgencia
 
             conta.Sacar(10);
 
-            Console.ReadLine();
         }
     }
 }
